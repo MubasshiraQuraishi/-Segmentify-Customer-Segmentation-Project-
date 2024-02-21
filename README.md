@@ -1,1 +1,1 @@
-# -Segmentify-Customer-Segmentation-Project-
+"Segmentify is a comprehensive customer segmentation project aimed at uncovering valuable insights for targeted marketing strategies. Utilizing advanced analytics techniques, it efficiently clusters customers based on behavior and demographics to enhance marketing effectiveness."
